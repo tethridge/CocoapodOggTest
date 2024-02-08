@@ -1,0 +1,22 @@
+PODS:
+  - OggKit (1.3.5)
+
+DEPENDENCIES:
+  - OggKit (from `https://github.com/phonebooth/OggKit`, tag `1.3.5`)
+
+EXTERNAL SOURCES:
+  OggKit:
+    :git: https://github.com/phonebooth/OggKit
+    :tag: 1.3.5
+
+CHECKOUT OPTIONS:
+  OggKit:
+    :git: https://github.com/phonebooth/OggKit
+    :tag: 1.3.5
+
+SPEC CHECKSUMS:
+  OggKit: 3b87378770ee4d060c106f83efcce99694c3d719
+
+PODFILE CHECKSUM: acdcf091ca927e6831be455c46836d4e200f2175
+
+COCOAPODS: 1.15.1
